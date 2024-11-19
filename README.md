@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Usman Hassan
+# 👋 Hi, I'm Usman Zafar
 
 🚀 A Passionate Full Stack Developer from Pakistan 🇵🇰
 
