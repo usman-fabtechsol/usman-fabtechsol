@@ -48,8 +48,9 @@
 
 <div align="center">
   <h3>Snake Game</h3>
-  <img src="https://github.com/usman-fabtechsol/usman-fabtechsol/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/usman-fabtechsol/usman-fabtechsol/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
+
 
 ###
 

@@ -1,0 +1,46 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Game
+        uses: Platane/snk@v2
+        with:
+          github_user_name: usman-fabtechsol  # Replace with your GitHub username
+          outputs: dist/snake.svg
+
+      - name: Upload Snake Animation
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-game
+          path: dist/snake.svg
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: generate
+    steps:
+      - name: Download Artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: snake-game
+
+      - name: Commit and Push Snake Animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p output
+          mv snake.svg output/github-snake-dark.svg
+          git add output/github-snake-dark.svg
+          git commit -m "Update snake animation"
+          git push
