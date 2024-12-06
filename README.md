@@ -1,51 +1,59 @@
-# 👋 Hi, I'm Usman Zafar
+<h2 align="center">Hi 👋! My name is Usman Zafar and I'm a Full Stack Developer from Pakistan 🇵🇰</h2>
 
-🚀 A Passionate Full Stack Developer from Pakistan 🇵🇰
+###
 
-### 📧 Connect With Me:
+<br clear="both">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanzafar783@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usman-zafar-449116164/)  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=usman-fabtechsol&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman-fabtechsol&locale=en&layout=compact&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages graph" />
+</div>
 
-### 👨‍💻 About Me:
+###
 
-- 🔭 Currently working on MERN Stack Projects.
-- 🌱 Learning Python and Js UI libraries.
-- 💬 Ask me about JavaScript, React, Node.js, TypeScript, and MongoDB.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31" alt="typescript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" alt="react logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="31" alt="nextjs logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="31" alt="nodejs logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="31" alt="mongodb logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="31" alt="bash logo" />
+</div>
 
-### GitHub Streak:
+###
 
-![Usman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usman-fabtechsol&theme=radical&border_radius=10&bg_color=00000000)
+<div align="center">
+  <a href="mailto:usmanzafar783@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-usman-zafar-449116164/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo" />
+  </a>
+</div>
 
-## 📊 GitHub Stats:
+###
 
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman-fabtechsol&show_icons=true&count_private=true&theme=radical&hide_title=true&hide=prs&border_radius=10&bg_color=00000000)
+<div align="center">
+  <h3>Snake Game</h3>
+  <img src="https://github.com/usman-fabtechsol/usman-fabtechsol/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
-### Most Used Languages:
+###
 
-![Usman's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman-fabtechsol&layout=compact&theme=radical&border_radius=10&bg_color=00000000)
-
-### My GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=usman-fabtechsol&theme=radical&bg_color=00000000)
-
-## 🛠️ Tech Stack:
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)  
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-
-## 🎮 Snake Game
-
-![Snake Game](https://github.com/usman-fabtechsol/usman-fabtechsol/blob/output/github-contribution-grid-snake.svg)
-
-## 🎯 Fun Fact:
-
-I love solving coding challenges and exploring new technologies every day 🚀!
-
-⭐ If you like my work, feel free to ⭐️ my repositories!
+<div align="center">
+  <h3>Fun Fact</h3>
+  <p>I love solving coding challenges and exploring new technologies every day 🚀!</p>
+</div>
