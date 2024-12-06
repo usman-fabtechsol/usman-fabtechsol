@@ -40,6 +40,10 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)  
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 
+## 🎮 Snake Game
+
+![Snake Game](https://github.com/usman-fabtechsol/usman-fabtechsol/blob/output/github-contribution-grid-snake.svg)
+
 ## 🎯 Fun Fact:
 
 I love solving coding challenges and exploring new technologies every day 🚀!
