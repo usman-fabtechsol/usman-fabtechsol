@@ -1,0 +1,36 @@
+name: Generate Snake Game
+
+on:
+  # Run the workflow every day at midnight
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allows you to run the workflow manually
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repository
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Generate the snake animation
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Push the generated snake game to the `output` branch
+      - name: Push Snake Game
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_branch: output
